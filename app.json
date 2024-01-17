@@ -33,7 +33,9 @@
       "expo-router"
     ],
     "experiments": {
-      "typedRoutes": true
+      "typedRoutes": true,
+      "baseUrl": "/test-expo-router-v3-gh-hosting"
+      
     }
   }
 }
